@@ -28,8 +28,8 @@ x`/*
 	--main-color: var(--accent);
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
-	--theme-long-name: 'Shonax version';
-	--theme-version: '1.0';
+	--theme-long-name: 'Midnight UI';
+	--theme-version: '2.8';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
